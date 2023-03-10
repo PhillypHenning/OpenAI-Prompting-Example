@@ -1,0 +1,4 @@
+title: Deploy StackStorm to AWS EC2 with GitHub Actions
+description: Use github actions to deploy a stackstorm instance to a virtual machine (ec2) in the AWS cloud provider, and start automating your life, today!
+videolink: https://www.youtube.com/watch?v=MfAOGwRcbdQ
+files: ./path/to/stackstorm-example-github-workflow.yaml
